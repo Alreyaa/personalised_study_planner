@@ -79,15 +79,6 @@ User-provided course information and educational PDFs containing notes or textbo
 
 ---
 
-## 📂 Project Structure
-
-personalized_study_planner/
-├── study_planner.py
-├── requirements.txt
-└── README.md
-
----
-
 ## 📦 Installation
 
 1. Clone the repository:  
